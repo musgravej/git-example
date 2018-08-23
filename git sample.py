@@ -2,8 +2,7 @@ import os
 
 
 def main():
-    print("in main")
-    print("committed")
+    print("one print to rule them all!!!")
 
 
 if __name__ == '__main__':
