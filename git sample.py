@@ -2,8 +2,7 @@ import os
 
 
 def main():
-    print("in main")
-    print("committed")
+    print("committed to new sample")
 
 
 if __name__ == '__main__':
